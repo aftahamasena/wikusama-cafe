@@ -2,5 +2,5 @@
 
 This project consists of:
 
-- 🔗 [Frontend Repository]([(https://github.com/aftahamasena/fe-wikusamacafe)])
-- 🔗 [Backend Repository]([https://github.com/username/restaurant-app-backend])
+- 🔗 [Frontend Repository](https://github.com/aftahamasena/fe-wikusamacafe)
+- 🔗 [Backend Repository](https://github.com/username/restaurant-app-backend)
